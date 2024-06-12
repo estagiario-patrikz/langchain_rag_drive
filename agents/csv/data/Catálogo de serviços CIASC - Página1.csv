@@ -1,0 +1,84 @@
+Diretoria,Gerência,Coordenação,Canal de atendimento,Tipo,Descrição dos serviços executados
+VPA,GEPES,GEPES,Intranet/Portal de Serviços,Formulário,Capacitação - Solicitação de Participação em Eventos Externos
+VPA,GEPES,GEPES,Intranet/Portal de Serviços,Formulário,Solicitação de Adesão ao Trabalho Híbrido
+VPA,GEPES,COPAC,48 9935-8935 ou atestados@ciasc.sc.gov.br,whatsapp ou e-mail,Benefícios - Atestados
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira,Benefícios - Vale Alimentação e Transporte
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira,Benefícios - Licença Prêmio e Assiduidade
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira,Benefícios - Licença Maternidade/Paternidade
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira,Benefícios - Auxílio Creche
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Atualização do Cadastro
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Ponto
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Férias
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Movimentação do Empregado
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Empréstimo Consignado  
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Contrato de Trabalho 
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Documentos Digitalizados (PQIL) 
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Publicação de Portarias Funcionais
+VPA,GEPES,GEPES,copac@ciasc.sc.gov.br,Jira, Cadastro de Empregados - Pedido de Demissão.
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira,"Folha de Pagamento e Encargos - Horas Extras, Sobreavisos e Adicional Noturno"
+VPA,GEPES,COPAC,copac@ciasc.sc.gov.br,Jira,Folha de Pagamento e Encargos - Descontos e Ressarcimentos 
+VPA,GEPES,GEPES,48 9134-1380 ou ambulatório@ciasc.sc.gov.br,whatsapp ou e-mail,"Saude Ocupacional - Serviços Ambulatoriais e Médicos (Atendimento médicos, procedimentos e medicações, exames periódicos e testes ergonômicos)"
+VPA,GEPES,GEPES,copac@ciasc.sc.gov.br,Jira,"Progrrama de Estágio (Abertura de vaga, contratação, integração, acompanhamento das atividades e rescisão de contrato)"
+VPA,GEPES,GEPES,48 9204-8792 / 48 9204-8777 ou servicosocial@ciasc.sc.gov.br,whatsapp ou e-mail,Serviço Social - Acompanhar Empregados Afastados (INSS 16º dia e CAT - Comunicado de Acidente de Trabalho)
+VPA,GEPES,GEPES,48 9204-8792/ 48 9204-8777 ou servicosocial@ciasc.sc.gov.br,whatsapp ou e-mail,Serviço Social - Orientação para solicitação e acompanhamento ao Trabalho Híbrido 100%
+VPA,GEPES,GEPES,48 9204-8792/ 48 9204-8777 ou servicosocial@ciasc.sc.gov.br,whatsapp ou e-mail,"Serviço Social - Programa Menor Aprendiz (Seleção através de entrevista, Encaminhamento para a área solicitante e acompanhamento)"
+VPA,GEPES,GEPES,48 9204-8792/ 48 9204-8777 ou servicosocial@ciasc.sc.gov.br,whatsapp ou e-mail,Serviço Social - Prestação de Serviço Social aos Empregados
+VPA,GERAD,CORAD,corad@ciasc.sc.gov.br,e-mail,"Serviços de recepção, de protocolo, de acesso e segurança patrimonial, de transporte, de gestão dos serviços de manutenção, reformas e conservação de infraestrutura interna, do patrimônio físico, serviços gerais e gestão de patrimônio."
+VPA,GELIC,COLIC,colic@ciasc.sc.gov.br,e-mail,"Execução de Processos de licitações e compras diretas do CIASC, desde cotação de preços até formalização de contratos.  Atividades do almoxarifado."
+VPT,GEGOV,COIND,boavista@ciasc.sc.gov.br,Jira,Atendimento de demandas referentes ao Boavista.
+VPT,GEGOV,COSEC,suporte-ccorp@ciasc.sc.gov.br ,Jira,"Atendimento referente a devops e ferramentas corporativas (Arquitetura do Boa Vista, OKD, Kafka, Solr, ELK, S3, Git, Nexus)"
+VPT,GEGOV,CSGOV,solicitacoes-scdigital@ciasc.sc.gov.br,Jira,Solicitações dos produtos Carta de Serviços e  Plataforma SC Digital
+VPT,GEGOV,CSGOV,websites@ciasc.sc.gov.br,Jira,Suporte e desenvolvimento de WebSites
+VPT,GEGOV,CSGOV,solicitacoes-paineis@ciasc.sc.gov.br,Jira,Suporte e desenvolvimento de painéis Power BI
+VPT,GETII,COBAN,suportesqlserver@ciasc.sc.gov.br,Jira,Solicitações de suporte a bancos de dados SQL Server
+VPT,GETII,COBAN,suportedbaoracle@ciasc.gov.br ,Jira,Solicitações de suporte a bancos de dados Oracle
+VPT,GETII,COBAN,suporte-opendb@ciasc.sc.gov.br ,Jira,Solicitações de suporte a bancos de dados PostgreSQL e MySQL
+VPT,GETII,COBAN,useridms@ciasc.sc.gov.br ,Jira,Solicitações de suporte a bancos de dados IDMS
+VPT,GETII,COAPE,suporte-apps@ciasc.sc.gov.br ,Jira,Suporte a softwares de mensageria e relacionados a Google Workspace.
+VPT,GETII,COAPE,suporte-linux@ciasc.sc.gov.br,Jira,"Suporte aos sistemas operacionais LINUX e principais aplicações hospedados nesses servidores (sites, containers, LVM, particionamentos).."
+VPT,GETII,COAPE,suporte-aix@ciasc.sc.gov.br,Jira,Suporte ao sistema operacional IBM AIX.
+VPT,GETII,COAPE,suporte-windows@ciasc.sc.gov.br,Jira,"Suporte ao sistema operacional Windows Server e aplicativos rodando nessa platafroma (IIS,FTP, Active Directory).."
+VPT,GETII,COAPE,suporte-zabbix@ciasc.sc.gov.br ,Jira,Suporte a ferramenta de monitoramento ZABBIX e GRAFANA. Criação de paineis(dashboards) de monitoramento Grafana.
+VPT,GETII,COAPE,suporte-dns@ciasc.sc.gov.br ,Jira,Suporte a registro de domínios sc.gov.br  e modificações em entradas DNS. Criaçaõ de nomes DNS em geral.
+VPT,GETII,COAPE,suporte-vmware@ciasc.sc.gov.br,Jira,Suporte ao ambiente Vmware. Provisionamento de máquinas virtuais e alteração nas configuração de VMs.
+VPT,GETII,COAPE,suporte-vmware@ciasc.sc.gov.br,Jira,Aumentar espal em disco em servidores Windows e Linux.
+VPT,GETII,COAPE,suporte-backup@ciasc.sc.gov.br,Jira,"Suporte a todas as atividades de backup/restore em máquinas virtuais, sistemas operacionais e banco de dados."
+VPT,GETII,COAPE,suporte-producao@ciasc.sc.gov.br,Jira,"Suporte a atividades de Job Scheduling (rundeck), rotinas de produção."
+VPT,GETII,COAPE,suporte-rundeck@ciasc.sc.gov.br,Jira,Suporte ao ambiente de automação de JOBs baseado no Rundeck.
+VPT,GETII,COAPE,suporte-storage@ciasc.sc.gov.br,Jira,Suporte a atividades relacionadas ao armazenamenro de dados dos storages (mais de uso interno).
+VPT,GETII,COAPE,suporte-producao@ciasc.sc.gov.br,Jira,Implementaçaõ de rotinas de produção (FTP(s)  e Rundeck)
+VPT,GETII,COAPE,suporte-windows@ciasc.sc.gov.br,Jira,"Gerenciamento de contas do domínio windows INTRANET e CIASC (criação, alteração, (des)bloqueios e remoção de contas). Gerenciamento de privilegios de acesso a servidores Widnwos. Acesso RDP."
+VPT,GETII,COAPE,suporte-apps@ciasc.sc.gov.br ,Jira,Administraçaõ do SAU - Tarefas administrativas - Permissionamento de acesso a sistemas abaixo do SAU é com a GEGOV.
+VPT,GETII,COAPE,suporte-linux@ciasc.sc.gov.br,Jira,Solicitações para criação de entradas em proxy reverso.
+VPT,GETII,COAPE,suporte-apps@ciasc.sc.gov.br,Jira,Solicitações asosicadas a criação e gerenciamento de entradas em LDAP
+VPT,GERED,COSEI,suporte-firewall@ciasc.sc.gov.br,Jira,Solicitações de suporte para criação de regras e demais serviços de Firewall.
+VPT,GERED,COSEI,suporte-antivirus@ciasc.sc.gov.br,Jira,Solicitações e suporte para chamados sobre antivirus (kaspersky)
+VPT,GERED,COSEI,suporte-vpn@ciasc.sc.gov.br,Jira,Solicitações e suporte para chamados sobre VPN.
+VPT,GERED,COIRE,coire@ciasc.sc.gov.br,Glpi,"Solicitações de infrestrutura de fibra óptica, infraestrutura do DC, microinformática e instalações elétricas na empresa."
+VPT,GERED,COIRE,agendamento.datacenter@ciasc.sc.gov.br,Glpi,Solicitações de acessos e manutenções no Data Center.
+VPT,GERED,COIRE,manutencao_coire@ciasc.sc.gov.br,Glpi,"Computadores dos empregados, microinformática."
+VPT,GERED,COIRE,subestacao@ciasc.sc.gov.br,Glpi,"instalações elétricas na empresa, infraestrutura de energia e climatização do Data Center"
+VPT,GERED,CORED,cored@ciasc.sc.gov.br,Glpi,"Solicitações de configuração e suporte técnico na rede, roteamento IP, conectividade intranet/Internet, redes Wifi, projetos especiais de conectividade."
+VPT,GERED,COSIC,apoio@ciasc.sc.gov.br,e-mail,"Atendimento das aberturas de chamados na central de atendimento e operação(e-mail, telefone e Glpi)"
+VPT,GPROS,CSADM,solicitacoes-sigrh@ciasc.sc.gov.br,Jira,Solicitações do produto Folha de pagamento SIGRH (Poder executivo e empresas públicas) *
+VPT,GPROS,CSADM,solicitacoes-mpsc.sigrh@ciasc.sc.gov.br,Jira,Solicitações do produto SIGRH do Ministério Público de Santa Catarina *
+VPT,GPROS,CSADM,suporte-esocial@ciasc.sc.gov.br,Jira,Solicitações do produto Integrador eSocial *
+VPT,GPROS,CSADM,solicitacoes-esfinge@ciasc.sc.gov.br,Jira,Solicitações do produto e-Sfinge *
+VPT,GPROS,CSADM,suportelic@ciasc.sc.gov.br,Jira,"Solicitações dos produtos WebLIC, eLIC, Gerenciador de editais, Portal de Compras, Cadastro de penalidades *"
+VPT,GPROS,CSADM,solicitacoes-sme@ciasc.sc.gov.br,Jira,Solicitações do produto SME e NUC (Almoxarifado Mainframe) *
+VPT,GPROS,CSADM,solicitacoes-pat@ciasc.sc.gov.br,Jira,Solicitações do produto PAT (Patrimônio Mainframe) *
+VPT,GPROS,CSADM,solicitacoes-csadm@ciasc.sc.gov.br,Jira,"Solicitações dos produtos Rede Lógica, SIGEP, Ouvidoria *"
+VPT,GPROS,CSEDU,solicitacoes-sed@ciasc.sc.gov.br,Jira,"Solicitações dos produtos SISGESC, Professor e Estudante Online, Matrícula Online, Ocupação de Vagas ACT, Uniedu, Alimentação, Universidade Gratuíta, etc. *"
+VPT,GPROS,CSFAZ,solictacoes-csfaz@ciasc.sc.gov.br ,Jira,"Acompanhamento Físico Financeiro (PPA), Cartão de Pagamento do Estado de Santa Catarina (CPESC), Extrações e ou Visões de Banco de Dados (SIGEF), Portal da Transparência do Poder Executivo, Demonstrativo de Atendimento dos Requisitos para Transferências Voluntárias (DART), Prestadores de Serviço, SCtransferências, Sistema de Informações de Gestão de Custos (SICSC), Comprovante de Rendimento (PF, PJ, Defensoria Dativa) e Pagamentos RPV"
+VPT,GPROS,--,solicitacoes-genexus@ciasc.sc.gov.br,Jira,"Solicitações dos produtos Safra, Preço, Custos, Fundesa, Terra, BoaVista Gestão, Agendamento IGP, Carteira Funcional *"
+VPT,GPROS,---,solicitacoes-jira@ciasc.sc.gov.br,Jira,Solicitações relacionadas ao suporte do Jira Software e Jira Service Managment
+VPT,GDESP,CSTRA,ipva@ciasc.sc.gov.br,Jira,Solicitações do produto IPVA 
+VPT,GDESP,CSTRA,detrannetmultas@ciasc.sc.gov.br,Jira,Solicitações do produto Detrannet Multas
+VPT,GDESP,CSTRA,detrannetveiculos@ciasc.sc.gov.br,Jira,Solicitações do produto Detrannet Veículos
+VPT,GDESP,CSTRA,detrannetcnh@ciasc.sc.gov.br,Jira,Solicitações do produto Detrannet CNH
+VPT,GDESP,CSTRA,registrocontrato@ciasc.sc.gov.br,Jira,Solicitações do produto Detrannet Registro de Contratos
+VPT,GDESP,CSTRA,portalecv@ciasc.sc.gov.br,Jira,Solicitações do produto Portal ECV
+VPT,GDESP,CSSEG,solicitacoes-sisp@ciasc.sc.gov.br,Jira,Solicitações do produto SISP *
+VPT,GDESP,CSSEG,solicitacoes-ipen@ciasc.sc.gov.br,Jira,Solicitações do produto IPEN *
+,,,,,
+"* O canal de atendimento não deve ser compartilhado diretamente com o usuário final, somente os órgãos podem abrir demandas nestes canais.",,,,,
